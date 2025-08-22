@@ -1,3 +1,4 @@
+package fontes;
 public class Calculadora {
 
 	public double somar(double num1, double num2) {

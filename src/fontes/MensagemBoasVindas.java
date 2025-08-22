@@ -1,4 +1,6 @@
 // Mensagem de abertura da calculadora
+package fontes;
+
 public class MensagemBoasVindas {
 
 	public String geraMensagem(String nomeUsuario) {
